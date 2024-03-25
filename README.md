@@ -3,3 +3,6 @@ An object-oriented programming (OOP) problem typically involves designing and im
 
 ## Author
 NEHEMIAH CHERUIYOT
+
+## License
+This project is under the MIT License
