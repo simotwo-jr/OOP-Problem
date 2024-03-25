@@ -13,6 +13,9 @@ participants = [
     {'name': "Big Bob", 'chickenwings': 20, 'hamburgers': 4, 'hotdogs': 11}
 ]
 
+scoreboard = create_scoreboard(participants)
+print(scoreboard)
+
 
 
 
